@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **app development**
 
-- 📫 How to reach me **varyani.a@northeastern.edu or arnavvaryani@gmail.com**
+- 📫 How to reach me **varyani.a@northeastern.edu**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/arnavvaryani/](https://www.linkedin.com/in/arnavvaryani/)
 
