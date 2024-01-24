@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Varyani</h1>
-<h3 align="center">I'm a Graduate Student studying Information Systems at Northeastern University</h3>
+<h3 align="center">I'm a Graduate Student studying Computer Software Engineering at Northeastern University</h3>
 
 - 💬 Ask me about **app development**
 
