@@ -20,7 +20,7 @@
 - ⚡ Fun fact **My name rhymes to a famous news reporter in India**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">a# Hi 👋, I'm Arnav Varyani
+<p align="left">Hi 👋, I'm Arnav Varyani
 
 🎓 Graduate Student & Research Assistant in Information Systems at Northeastern University  
 📱 Currently working on iOS & Accessibility projects  
