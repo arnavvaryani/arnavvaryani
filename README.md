@@ -20,7 +20,39 @@
 - ⚡ Fun fact **My name rhymes to a famous news reporter in India**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">a# Hi 👋, I'm Arnav Varyani
+
+🎓 Graduate Student & Research Assistant in Information Systems at Northeastern University  
+📱 Currently working on iOS & Accessibility projects  
+🔍 Learning React Native and Large Language Models  
+💼 All my work is at [arnavcodes.me](https://arnavcodes.me)  
+✍️ I write articles at [arnavcodes.me/articles](https://arnavcodes.me/articles)  
+📬 Reach me at: varyani.a@northeastern.edu  
+💬 Ask me about App Development  
+🎤 Fun fact: My name rhymes with a famous news reporter in India
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arnavvaryani-blue?logo=linkedin)](https://www.linkedin.com/in/arnavvaryani/)  
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-Arnav-orange?logo=stackoverflow)](https://stackoverflow.com/users/12723929/arnav)  
+[![Medium](https://img.shields.io/badge/Medium-@arxnv-black?logo=medium)](https://medium.com/@arxnv)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-arxnv-yellow?logo=leetcode)](https://leetcode.com/u/arxnv/)
+
+## Tools & Technologies
+
+Some of the tools I work with:
+- Programming: Swift, Kotlin, Python, JavaScript, TypeScript
+- Frameworks: React Native, Flutter, Flask
+- DevOps & Cloud: Docker, Firebase, Google Cloud, Git
+- Design & Testing: Figma, Postman, Selenium
+- Data: Pandas, TensorFlow, Scikit-learn
+
+## GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavvaryani&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnavvaryani&show_icons=true)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=arnavvaryani)
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arnavvaryani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arnavvaryani/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12723929/arnav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12723929/arnav" height="30" width="40" /></a>
 <a href="https://medium.com/@arxnv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arxnv" height="30" width="40" /></a>
