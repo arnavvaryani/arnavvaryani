@@ -1,23 +1,25 @@
 <h1 align="center">Hi 👋, I'm Arnav Varyani</h1>
-<h3 align="center">Graduate Student & Research Assistant in Information Systems at Northeastern University</h3>
+<h3 align="center">SDET @ WHOOP · iOS & Swift Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=iOS+%26+Accessibility+Engineer;React+Native+%26+LLM+Enthusiast;App+Developer+%7C+Swift+%7C+GCP+%7C+Docker;Always+building+and+breaking+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=520&lines=SDET+%7C+Test+Automation+%26+Quality;Mobile+%2B+API+%2B+Backend+Testing;AI-based+Testing+%26+Internal+Tooling;iOS+%26+Swift+Developer;Always+building+and+breaking+things" alt="Typing SVG" />
 </p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=arnavvaryani&label=Profile%20views&color=0e75b6&style=flat" alt="arnavvaryani" />
 </p>
 
-- 🔭 I’m currently working on **iOS & Accessibility-focused apps**
+- 🔭 I’m currently working on **mobile test automation, API & backend service testing, and AI-based testing at WHOOP**
 
-- 🌱 I’m currently learning **React Native and LLMs**
+- 🛠️ I build and own **internal tooling and test frameworks**, plus backend services
+
+- 📱 On the side I build **iOS apps with Swift & SwiftUI**
 
 - 👨‍💻 My projects live at [arnavcodes.me](https://arnavcodes.me)
 
 - 📝 I write articles at [arnavcodes.me/articles](https://arnavcodes.me/articles)
 
-- 💬 Ask me about **Swift, App Development, or Accessibility Engineering**
+- 💬 Ask me about **Test Automation, Swift, App Development, or Backend Services**
 
 - 📫 Reach me at **varyani.a@northeastern.edu**
 
@@ -27,10 +29,10 @@
 
 ## 🧰 Tools & Technologies
 
-- **Languages:** Swift, Kotlin, Python, TypeScript, JavaScript, Dart, C, Java, Rust  
-- **Frameworks:** SwiftUI, React Native, Flutter, Flask, Node.js, Express, Firebase  
-- **Cloud & DevOps:** GCP, Docker, Firebase, Git, GitHub Actions  
-- **Design & Testing:** Figma, Postman, Selenium, XCTest, XCUITest  
+- **Testing & QA:** XCTest, XCUITest, Selenium, Postman, CI/CD, GitHub Actions
+- **Languages:** Swift, Kotlin, Python, TypeScript, JavaScript, Dart, C, Java, Rust
+- **Frameworks:** SwiftUI, React Native, Flutter, Flask, Node.js, Express, Firebase
+- **Cloud & DevOps:** GCP, Docker, Firebase, Git, GitHub Actions
 - **ML/Data:** TensorFlow, Scikit-learn, Pandas, OpenCV
 
 ---
@@ -39,7 +41,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arnavvaryani&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavvaryani&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=arnavvaryani&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavvaryani&layout=compact&theme=tokyonight" />
 </p>
 
